@@ -71,6 +71,6 @@ We restric parameters to optimal numbers in order to minimize human error.
 ><br />
 
 *Sincerely,*<br />
-*Stayin' Alive Team.*
+*Stayin' Alive Team. (Kateryna Chumachenko, Aleksandra Kolobaeva, Aleksei Shkurin)*
 
 Based on tutorials provided by http://deeplearning.net/tutorial/lenet.html
