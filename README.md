@@ -72,3 +72,5 @@ We restric parameters to optimal numbers in order to minimize human error.
 
 *Sincerely,*<br />
 *Stayin' Alive Team.*
+
+Based on tutorials provided by http://deeplearning.net/tutorial/lenet.html
